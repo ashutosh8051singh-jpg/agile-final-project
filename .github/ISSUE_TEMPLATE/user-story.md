@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-As a [type of user],
-I want to [perform some task],
-so that [I can achieve some goal].
+**As a** [role]
+**I need** [function]
+**So that** [benefit]
 
+### Details and Assumptions
+[document what you know]
 
-## Details and Assumptions
-
-## Acceptance Criteria
-''' gherkin
-  Given [some initial context or precondition]
-  When [an action is performed by the user]
-  Then [a specific, observable outcome should occur]
+### Acceptance Criteria
+```gherkin
+Given
+When [certain action is taken]
+Then [the outcome of action is observed]
